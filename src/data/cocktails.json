@@ -1,0 +1,305 @@
+[
+    {
+        "id": 0,
+        "titulo" : "Old fashioned",
+        "metodoElaboracion" : "Refrescado",
+        "foto": "https://ik.imagekit.io/bhug69xts/tr:h-1200,w-1200/old-fashioned.png",
+        
+        "ingredientes": [
+            {
+                "alcoholes": [
+                {
+                    "nombre": "Bourbon",
+                    "cantidad": 2,
+                    "medida": "Oz"
+                },
+                {
+                    "nombre": "Amargo de angostura",
+                    "cantidad": 8,
+                    "medida": "golpes"
+                }
+                ]
+            },
+            {
+                "endulzantes": [
+                    {
+                        "nombre": "Azúcar",
+                        "cantidad": 2,
+                        "medida": "bsp"
+                    }
+                ]
+            },
+            {
+                "tonificante": [
+                    {
+                        "nombre": "Soda",
+                        "cantidad": 1,
+                        "medida": "splash"
+                    }
+                ]
+            }
+        ],                 
+            "cristaleria": "Vaso old fashioned",
+            "hielo": "Entero",
+            "garnish": ["rodaja de naranja", "cereza marraschino"],
+        "historia": [
+            "La primera definición documentada de la palabra cocktail (literalmente, «cola de gallo») fue en respuesta a una carta del lector que pedía definir la palabra en la edición del 6 de mayo de 1806 de The Balance and Columbian Repository en Hudson, Nueva York. En el número del 13 de mayo de 1806, el editor del periódico escribió que era una mezcla potente de bebidas espirituosas, amargo (bíter), agua y azúcar; J. E. Alexander describe el «cóctel» de manera similar en 1833, ya que lo encontró en la ciudad de Nueva York, como ron, gin o brandy, agua, amargos y azúcar importantes, aunque también incluye nuez moscada como garnish",
+
+            "En la década de 1860, era común agregar al cóctel el curaçao de naranja, absenta y otros licores. La bebida original, aunque en diferentes proporciones, volvió a estar de moda y se la denominó Old-Fashioned («anticuada»). De los varios cócteles Old-Fashioned que volvían a estar de moda, el cóctel más popular era el que se elaboraba whiskey, y según un barman de Chicago citado en el Chicago Daily Tribune en 1882, siendo el Rye whiskey (de centeno) más popular que Bourbon. La receta que este barman describió es una combinación de ingredientes muy similar a la que ya se servía 76 años antes.",
+
+            "La primera mención impresa sobre «cócteles Old Fashioned» fue en el Chicago Daily Tribune en febrero de 1880. Sin embargo, el Pendennis Club, un club de caballeros fundado en 1881 en Louisville, Kentucky, afirma que el cóctel Old Fashioned fue inventado allí. Se dice que la receta fue inventada por un bartender de ese club en honor al Coronel James E. Pepper, un destacado destilador de bourbon, quien la llevó al bar del hotel Waldorf-Astoria en Manhattan",
+
+            "Con su concepción arraigada en la historia de la ciudad, en 2015, la ciudad de Louisville nombró al Old Fashioned como su cóctel oficial. Cada año, durante las primeras dos semanas de junio, en Louisville se celebra el evento Old Fashioned Fortnight («la quincena pasada de moda»), relacionado con el whisky de Bourbon, los cócteles y el Día Nacional del Bourbon, que se celebra anualmente cada 14 de junio."
+            ],
+        "receta": [
+                "En un vaso agregar azúcar y los 8 golpes de angostura, integrar con cucharilla mezcladora hasta formar una pastita.",
+                "Ir empapando las paredes del vaso con dicha preparación hasta cubrirlas bien.",
+                "Espolvorear azúcar para reforzar el empaste del interior del vaso.",
+                "Agregar hielo entero y las 2 Oz de nuestro Bourbon a elección",
+                "Perfumar con piel de naranja y decorar con rodaja de esta y una cereza marraschino."
+            ]
+    },
+    {
+        "id": 1,
+        "titulo" : "Mojito",
+        "metodoElaboracion" : "Construido",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenFKnuS_M1YF9RQVr3IhA0jcBc_IdKeqhB0XUJ6OgIQ&s",
+        
+        "ingredientes": [
+            {
+                "alcoholes": [
+                {
+                    "nombre": "Ron blanco",
+                    "cantidad": 2,
+                    "medida": "Oz"
+                }
+                ]
+            },
+            {
+                "endulzantes": [
+                    {
+                        "nombre": "Almibar",
+                        "cantidad": 1,
+                        "medida": "oz"
+                    }
+                ]
+            },
+            {
+                "jugos": [
+                    {
+                        "nombre": "Limón",
+                        "cantidad": 0.75,
+                        "medida": "oz"
+                    }
+                ]
+            },
+            {
+                "botanicos": [
+                    {
+                        "nombre": "Menta",
+                        "cantidad": 10,
+                        "medida": "hojas"
+                    }
+                ]
+            },
+            {
+                "tonificante": [
+                    {
+                        "nombre": "Soda",
+                        "cantidad": 1,
+                        "medida": "Splash"
+                    }
+                ]
+            }
+        ],                 
+            "cristaleria": "Vaso trago largo",
+            "hielo": "Roto",
+            "garnish": ["Penacho de menta"],
+        "historia": [
+            "En el S.XVI, los interminables viajes en barco pusieron de moda una enfermedad que padecían tanto piratas como marineros, era el escorbuto (esta dolencia se produce debido a una carencia en el consumo de vitamina C). Alertado por el padecimiento de su tripulación, mediante ingredientes naturales el corsario Drake, crea la primera versión del famoso mojito. Sus ingredientes eran: Tafia (un aguardiente predecesor del ron), limón, menta fresca y azúcar. Simple pero efectivo contra el escorbuto por su vitamina C. Esta bebida fue bautizada como “El Draque”, remedio favorito usado para cualquier afección que tuviera la tripulación.",
+
+            "A bordo de barcos la bebida recorrió todas las playas del caribe, pero fue en Cuba donde no sólo se perfeccionaría, sino que se convertiría en la bebida tal como la conocemos en la actualidad. Cuba con el tiempo empezó a producir un ron de mejor calidad, más añejo y fue el reemplazo ideal de la antigua Tafia. También el Draque, pasó a llamarse “Mojito” que proviene de “mojo”, un aliño cubano a base de lima que se usa en las comidas. La gente pedía un mojito, ya que era esa bebida con poco “mojo”.",
+
+            "Lo curioso es la forma en la que llega el mojito a tener su fama internacional. En 1910, Estados Unidos decreta su famosa Ley Seca, muchos intelectuales, artistas y famosos, huían a Cuba en busca de alcohol y diversión, es ahí que descubren el famoso mojito cubano. Un cóctel fresco, dulzón y muy embriagante. A partir de ahí su fama se ha extendido por todo el planeta. Quien viaja a la Habana no puede dejar de probar un mojito en La Bodeguita del Medio, sigue siendo casi un ritual desde que el escritor Ernest Heminway, popularizara este lugar, aseverando que allí se toma el “auténtico mojito cubano”."
+            ],
+        "receta": [
+                "Colocar en un vaso trago largo de 10 a 15 hojas de menta.",
+                "Agregar 2 oz de ron blanco de su elección, seguido a esto incorporar 1 oz de almibar y 0,75 oz de jugo de limón.",
+                "Agregar hielo picado hasta completar el vaso y con la ayuda de nuestra barspoon diluir el cocktail haciendo movimientos verticales generando fricción con el hielo para hacer que este enfrie bien la bebida y el vaso. ",
+                "Completamos con soda, colocamos un sorbete y decoramos con un buen penacho de menta."
+            ]
+    },
+    {
+        "id": 2,
+        "titulo" : "Hanky panky",
+        "metodoElaboracion" : "Refrescado",
+        "foto": "https://www.liquor.com/thmb/9Bc0hmzzBUcyrC1xgor60Uq7W8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hanky-panky-1200x628-fb-9f0f0c2a4b0c4f4784d5114c4f480aff.jpg",
+        
+        "ingredientes": [
+            {
+                "alcoholes": [
+                {
+                    "nombre": "Gin",
+                    "cantidad": 1.5,
+                    "medida": "Oz"
+                },
+                {
+                    "nombre": "Vermouth rosso",
+                    "cantidad": 1.5,
+                    "medida": "Oz"
+                },
+                {
+                    "nombre": "Fernet",
+                    "cantidad": 0.25,
+                    "medida": "Oz"
+                }
+                ]
+            },
+            {
+                "endulzantes": [
+                    {
+                        "nombre": "Almibar",
+                        "cantidad": 1,
+                        "medida": "oz"
+                    }
+                ]
+            },
+            {
+                "jugos": [
+                    {
+                        "nombre": "Limón",
+                        "cantidad": 0.75,
+                        "medida": "oz"
+                    }
+                ]
+            }
+        ],                 
+            "cristaleria": "Copa cupe",
+            "hielo": "No lleva",
+            "garnish": ["Piel de naranja"],
+        "historia": [
+            "El cóctel Hanky Panky fue creado en el año 1900 por 'Coley' Ada Coleman en el American Bar del Hotel Savoy, en Londres, para el actor Sir Charles Hawtrey.",
+
+            "Ada Coleman era habitual colaborador del periódico “The People”, ya que los periodistas del momento querían conversar cuales eran las preferencias gastronómicas de sus afamados clientes. En una de las ediciones dominicales de 1925, escribió sobre el difunto Charles Hawtrey “este gran actor fue una de la personas que juzgó mi coctelería durante muchos de mis años como barman. Tiempo atrás, en su época más afamada como actor, solía entrar en el bar y decir: Coley, estoy cansado. Prepárame algún ponche que pueda relajarme. Por esta y otras muchas noches, me pasaba horas experimentando hasta que pudiese inventar un cóctel con el que sorprenderle. La siguiente vez que vino a visitarme entró, y le dije que tenía una nueva bebida para él. Él la probo, y, dejando escurrir el vaso, dijo: ¡Espectacular! Esto es una auténtica locura! Y por este motivo, decidió llamarla Hanky Panky”.",
+
+            "Coley fue Bar Manager del famoso 'American Bar' del Savoy y el Hanky Panky fue su creación más famosa. Ella perfeccionó su arte en la coctelería en el Hotel Claridge y posteriormente inicio su andadura en el Savoy en julio de 1900, donde permaneció hasta su jubilación en diciembre de 1924. Durante su estancia en el Savoy preparo cocteles para personajes de la talla de Mark Twain, el Príncipe de Gales y el príncipe Guillermo de Suecia."
+            ],
+        "receta": [
+                "Procedemos a enfriar una copa cupé, la cual reservaremos para luego vertir nuestro cocktail.",
+                "En un vaso de compocición agregar hielo y refrescar este para enfriar. Retirar el exceso de agua de este y procederemos a armar nuestro cocktail.",
+                "Colocamos 1,5 oz del gin de su preferencia, seguido de esto 1.5 oz también de vermouth rosso y por último 0.25 oz de fernet.",
+                "Seguido a esto procederemos a refrescar nuestro cocktail por aproximadamente unos 30 a 45 segundos o hasta notar que nuestro vaso de composición se encuentra bien frío, también podemos probar un poco de nuestro cocktail con la ayuda de nuestro barspoon y ver que tenga el frío y sabor deseado.",
+                "Retiramos el hielo y el agua que pueda llegar a quedarle a nuestra copa y servimos nuestro trago en esta.",
+                "Perfumamos con piel de naranja y haciendo un twist podemos colocarla en un costado de la copa."
+            ]
+    },{
+        "id": 3,
+        "titulo" : "Negroni",
+        "metodoElaboracion" : "Refrescado",
+        "foto": "https://cdn.recetasderechupete.com/wp-content/uploads/2020/07/Negroni-c%C3%B3ctel.jpg",
+        
+        "ingredientes": [
+            {
+                "alcoholes": [
+                {
+                    "nombre": "Gin",
+                    "cantidad": 1,
+                    "medida": "Oz"
+                },{
+                    "nombre": "Vermouth rosso",
+                    "cantidad": 1,
+                    "medida": "Oz"
+                },{
+                    "nombre": "Campari",
+                    "cantidad": 1,
+                    "medida": "Oz"
+                }
+                ]
+            }
+        ],                 
+            "cristaleria": "Vaso old fashioned",
+            "hielo": "Entero",
+            "garnish": ["Media rodaja de naranja"],
+        "historia": [
+            "Cuenta la historia que, más tarde, en 1919, un conde italiano llamado Camillo Negroni, conocido como un joven astuto y cliente habitual del Bar Casoni, más tarde llamado Caffe Giacosa, en la calle Tournaboni de Florencia, un día pidió que su Americano estuviera un poco más cargado.  El barman, Fosco Scarselli respondió cambiando la soda por ginebra y la combinación se convirtió en el cóctel habitual del conde. Otros clientes del bar pronto comenzaron a pedir una de las bebidas del Conde Negroni y después de un tiempo, la bebida simplemente se conoció como Negroni."
+            ],
+        "receta": [
+                "Procedemos a enfriar una copa cupé, la cual reservaremos para luego vertir nuestro cocktail.",
+                "En un vaso de compocición agregar hielo y refrescar este para enfriar. Retirar el exceso de agua de este y procederemos a armar nuestro cocktail.",
+                "Colocamos 1,5 oz del gin de su preferencia, seguido de esto 1.5 oz también de vermouth rosso y por último 0.25 oz de fernet.",
+                "Seguido a esto procederemos a refrescar nuestro cocktail por aproximadamente unos 30 a 45 segundos o hasta notar que nuestro vaso de composición se encuentra bien frío, también podemos probar un poco de nuestro cocktail con la ayuda de nuestro barspoon y ver que tenga el frío y sabor deseado.",
+                "Retiramos el hielo y el agua que pueda llegar a quedarle a nuestra copa y servimos nuestro trago en esta.",
+                "Perfumamos con piel de naranja y haciendo un twist podemos colocarla en un costado de la copa."
+            ]
+    },{
+        "id": 4,
+        "titulo" : "Penicillin",
+        "metodoElaboracion" : "Batido",
+        "foto": "https://www.liquor.com/thmb/FsPcbBZ5fnQy3mWgZ-xDPqxeS0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/penicillin-720x720-primary-8157bd54c63948c4b5a3ad5b3986965a.jpg",
+        
+        "ingredientes": [
+            {
+                "alcoholes": [
+                {
+                    "nombre": "Whisky escoces",
+                    "cantidad": 2,
+                    "medida": "Oz"
+                }
+                ]
+            }
+        ],                 
+            "cristaleria": "Vaso old fashioned",
+            "hielo": "Entero",
+            "garnish": ["Lima deshidratada"],
+        "historia": [
+            "Creado en 2005 en Nueva York por Sam Ross, barman australiano que inició su camino en Melbourne y que actualmente triunfa en los Estados Unidos dirigiendo las barras de los reconocidos restaurantes Milk & Honey y Little Branch;  además de asesorar cartas de coctelería en Los Ángeles y San Francisco. En una gélida noche de invierno experimentando, tuvo la idea de mezclar whisky con jugo de limón, jengibre y miel, creando así la primera versión del Penicillin que poco después se perfeccionó hasta la receta actual. ",
+
+            "En pocos años el cóctel Penicillin se ha convertido en lo que se llama un nuevo clásico de la coctelería y su receta se ha expandido por las mejores barras de todo el mundo."
+            ],
+        "receta": [
+                "Agarramos nuestra cocktelera, en el mini tin (en caso de ser cockteleras tipo boston) colocamos 2 oz de whisky escoces de nuestra preferencia.",
+                "Luego agregamos 1 oz de miel de jengibre.",
+                "Por último colocamos 1 oz de jugo de lima.",
+                "Agregamos hielo y  batimos energicamente aproximadamente por 10 a 15''.",
+                "Procedemos a abrir la cocktelera, con la ayuda de un colador oruga y un colador fino procedemos a servir nuestro cocktail en un vaso convenientemente frío.",
+                "Agregamos hielo al vaso y por último colocamos el garnish, en este caso una lima deshidratada. ",
+                "Como un agregado especial podemos agregarle 1 bsp de whisky ahumado, esto hara que realmente marque la diferencia." 
+            ]
+    },{
+        "id": 5,
+        "titulo" : "Moscow Mule",
+        "metodoElaboracion" : "Directo",
+        "foto": "https://www.barschool.net/sites/default/files/styles/image_gallery_xl/public/images/node/article/complete%20moscow-mule-served-in-a-mug.jpg?h=e6a7cdb7&itok=1BCvuWN7",
+        
+        "ingredientes": [
+            {
+                "alcoholes": [
+                {
+                    "nombre": "Vodka",
+                    "cantidad": 2,
+                    "medida": "Oz"
+                }
+                ]
+            }
+        ],                 
+            "cristaleria": "Vaso de cobre",
+            "hielo": "Roto",
+            "garnish": ["Gajo de lima"],
+        "historia": [
+            "Creado en 2005 en Nueva York por Sam Ross, barman australiano que inició su camino en Melbourne y que actualmente triunfa en los Estados Unidos dirigiendo las barras de los reconocidos restaurantes Milk & Honey y Little Branch;  además de asesorar cartas de coctelería en Los Ángeles y San Francisco. En una gélida noche de invierno experimentando, tuvo la idea de mezclar whisky con jugo de limón, jengibre y miel, creando así la primera versión del Penicillin que poco después se perfeccionó hasta la receta actual. ",
+
+            "En pocos años el cóctel Penicillin se ha convertido en lo que se llama un nuevo clásico de la coctelería y su receta se ha expandido por las mejores barras de todo el mundo."
+            ],
+        "receta": [
+                "Agarramos nuestra cocktelera, en el mini tin (en caso de ser cockteleras tipo boston) colocamos 2 oz de whisky escoces de nuestra preferencia.",
+                "Luego agregamos 1 oz de miel de jengibre.",
+                "Por último colocamos 1 oz de jugo de lima.",
+                "Agregamos hielo y  batimos energicamente aproximadamente por 10 a 15''.",
+                "Procedemos a abrir la cocktelera, con la ayuda de un colador oruga y un colador fino procedemos a servir nuestro cocktail en un vaso convenientemente frío.",
+                "Agregamos hielo al vaso y por último colocamos el garnish, en este caso una lima deshidratada. ",
+                "Como un agregado especial podemos agregarle 1 bsp de whisky ahumado, esto hara que realmente marque la diferencia." 
+            ]
+    }
+    
+
+]
