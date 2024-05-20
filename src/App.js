@@ -1,11 +1,12 @@
 import './App.css';
-import Home from './Home';
+import RouterPrincipal from './rout/RouterPrincipal'
+import {BrowserRouter} from 'react-router-dom'
 
 function App() {
   return (
-    <>
-      <Home />
-    </>
+    <BrowserRouter>
+      <RouterPrincipal/>
+    </BrowserRouter>
   );
 }
 

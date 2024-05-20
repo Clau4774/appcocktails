@@ -1,3 +1,4 @@
+
 body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -6,6 +7,10 @@ img {
     width: 100%;
 }
 
+
+.home-title {
+    margin-left: 5em;
+}
 
 .box-shadow {
     box-shadow: 10px 10px 20px #333;
@@ -19,10 +24,11 @@ img {
     margin: auto auto;
     width: 80%;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 15px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
     padding: 15px;
     border-radius: 5px;
+    user-select: none;
 }
 
 .card {
@@ -31,6 +37,11 @@ img {
     padding: 5px 7.5px;    
     text-transform: capitalize;
     cursor:default;
+}
+
+.card h3 {
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 
@@ -46,7 +57,7 @@ img {
     color: #fff;
     border-radius: 5px;
     text-align: center;
-    padding: 15px;
+    padding: 10px;
     cursor: pointer;
     margin: 5px 0;
 }
@@ -72,10 +83,46 @@ img {
     
 }
 
-.searcher-container input[type="text"], .searcher-container button {
+.searcher-container button {
+    cursor: pointer;
+    user-select: none;
+}
+
+.searcher-container input[type="text"], .searcher-container button,
+select {
     padding: 7.5px 5px;
     border: none;
     border-radius: 5px;
     outline: none;
     border: 1px solid #333;
+}
+
+.searcher-container input[type="text"]{
+    width: 200px;
+}
+
+@media (max-width: 665px) {
+    .grid-card {
+        width: 100%;
+        padding: 0;
+        box-shadow:none;
+    }
+
+    .grid-card h3 {
+        font-size: 1.05em;
+    }
+
+    .grid-card button {
+        font-size: 0.75em;
+    }
+
+    .searcher-container input[type="text"] {
+        width:auto;
+    }
+
+    .home-title {
+        font-size: 1.55em;
+        margin-left: 0;
+        text-align: center;
+    }
 }

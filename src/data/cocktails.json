@@ -16,7 +16,7 @@
                 {
                     "nombre": "Amargo de angostura",
                     "cantidad": 8,
-                    "medida": "golpes"
+                    "medida": "Golpes"
                 }
                 ]
             },
@@ -89,7 +89,7 @@
                     {
                         "nombre": "Limón",
                         "cantidad": 0.75,
-                        "medida": "oz"
+                        "medida": "Oz"
                     }
                 ]
             },
@@ -160,7 +160,7 @@
                     {
                         "nombre": "Almibar",
                         "cantidad": 1,
-                        "medida": "oz"
+                        "medida": "Oz"
                     }
                 ]
             },
@@ -169,7 +169,7 @@
                     {
                         "nombre": "Limón",
                         "cantidad": 0.75,
-                        "medida": "oz"
+                        "medida": "Oz"
                     }
                 ]
             }
@@ -244,7 +244,30 @@
                     "nombre": "Whisky escoces",
                     "cantidad": 2,
                     "medida": "Oz"
+                },
+                {
+                    "nombre": "Whisky escoces ahumado",
+                    "cantidad": 1,
+                    "medida": "Bsp"
                 }
+                ]
+            },
+            {
+                "endulzantes": [
+                    {
+                        "nombre": "Almibar de miel",
+                        "cantidad": 1,
+                        "medida": "Oz"
+                    }
+                ]
+            },
+            {
+                "jugos": [
+                    {
+                        "nombre": "Limón",
+                        "cantidad": 1,
+                        "medida": "Oz"
+                    }
                 ]
             }
         ],                 
@@ -280,26 +303,107 @@
                     "medida": "Oz"
                 }
                 ]
+            },
+            {
+                   "jugos": [
+                    {
+                        "nombre": "Lima",
+                        "cantidad": 0.75,
+                        "medida": "Oz"
+                    }
+                ]
+            },
+            {
+                "tonificante": [
+                    {
+                        "nombre": "Ginger beer",
+                        "cantidad": "",
+                        "medida": "Top"
+                    }
+                ]
             }
         ],                 
             "cristaleria": "Vaso de cobre",
             "hielo": "Roto",
             "garnish": ["Gajo de lima"],
         "historia": [
-            "Creado en 2005 en Nueva York por Sam Ross, barman australiano que inició su camino en Melbourne y que actualmente triunfa en los Estados Unidos dirigiendo las barras de los reconocidos restaurantes Milk & Honey y Little Branch;  además de asesorar cartas de coctelería en Los Ángeles y San Francisco. En una gélida noche de invierno experimentando, tuvo la idea de mezclar whisky con jugo de limón, jengibre y miel, creando así la primera versión del Penicillin que poco después se perfeccionó hasta la receta actual. ",
-
-            "En pocos años el cóctel Penicillin se ha convertido en lo que se llama un nuevo clásico de la coctelería y su receta se ha expandido por las mejores barras de todo el mundo."
+            "El Moscow Mule es un cóctel clásico que se creó en Estados Unidos en la década de 1940. Su historia está asociada a tres personas: John G. Martin, Jack Morgan y Sophie Berezinski.",
+            "En aquel entonces, John G. Martin era un distribuidor de vodka de la marca Smirnoff. Sin embargo, el vodka no era muy popular en EE.UU. en ese momento y Martin estaba teniendo problemas para dar salida a su producto. Por otro lado, Jack Morgan era propietario del pub Cock 'n' Bull en Los Ángeles, y tenía un exceso de stock de cerveza de jengibre (ginger beer) que también estaba teniendo problemas para vender.",
+            "Un día, Martin y Morgan se encontraron en el Cock 'n' Bull y comenzaron a discutir sobre sus problemas de venta. Fue entonces cuando Sophie Berezinski, una inmigrante rusa que trabajaba en el bar, sugirió combinar el vodka con la cerveza de jengibre y servirlo en una taza de cobre para hacerlo más atractivo. Los tres decidieron probar la idea y así nació el Moscow Mule.",
+            "El nombre 'Moscow Mule' se atribuye a John Martin, quien quería destacar el origen ruso del vodka. El 'Mule' en el nombre se refiere a la patada que el vodka da cuando se mezcla con la cerveza de jengibre.",
+            "El cóctel Moscow Mule ganó popularidad en Los Ángeles y se convirtió en una sensación en los bares de la ciudad. Su popularidad se extendió por todo el país y se convirtió en una de los cócteles más emblemáticos de la década de 1940.",
+            "Una parte importante del éxito del Moscow Mule se atribuye a su presentación en taza de cobre. Martin y Morgan comenzaron a comercializar el cóctel junto con tazas de cobre grabadas con el logo de Smirnoff y el logo del Cock 'n' Bull. Las tazas de cobre se volvieron muy populares y se convirtieron en un símbolo distintivo del Moscow Mule.",
+            "A medida que pasaron los años, la popularidad del Moscow Mule disminuyó, pero experimentó un resurgimiento en la década de 2000. El cóctel se convirtió en una opción de moda en bares y restaurantes, y las tazas de cobre también volvieron a ser un elemento de moda.",
+            "En ese momento, las tazas de cobre no eran particularmente populares o comunes en los bares, pero pensaron que el uso de este material único agregaría un toque distintivo y atractivo al cóctel. Además, el cobre es un excelente conductor de temperatura, lo que ayudaba a mantener la bebida fría durante más tiempo."
             ],
         "receta": [
-                "Agarramos nuestra cocktelera, en el mini tin (en caso de ser cockteleras tipo boston) colocamos 2 oz de whisky escoces de nuestra preferencia.",
-                "Luego agregamos 1 oz de miel de jengibre.",
-                "Por último colocamos 1 oz de jugo de lima.",
-                "Agregamos hielo y  batimos energicamente aproximadamente por 10 a 15''.",
-                "Procedemos a abrir la cocktelera, con la ayuda de un colador oruga y un colador fino procedemos a servir nuestro cocktail en un vaso convenientemente frío.",
-                "Agregamos hielo al vaso y por último colocamos el garnish, en este caso una lima deshidratada. ",
-                "Como un agregado especial podemos agregarle 1 bsp de whisky ahumado, esto hara que realmente marque la diferencia." 
+                "En un vaso de cobre agregar mucho hielo picado.",
+                "Agregar 2 oz de Vodka",
+                "3/4 oz de jugo de lima",
+                "Complete con ginger beer.",
+                "Terminar decorando con un gajo de lima." 
             ]
-    }
+    },{
+        "id": 6,
+        "titulo" : "Queens Park Swizzle",
+        "metodoElaboracion" : "Swizzle",
+        "foto": "https://resizer.glanacion.com/resizer/v2/CKYAEV5KJJAM7MH7Z6FCCETD7A.jpg?auth=e7d1450a23b7f22bf009c59b6fca4b9e4f05751855ff24aa3c86a3ab68e41b06&width=768&quality=70&smart=false",
+        
+        "ingredientes": [
+            {
+                "alcoholes": [
+                {
+                    "nombre": "Ron dorado",
+                    "cantidad": 2,
+                    "medida": "Oz"
+                },
+                {
+                    "nombre": "Amargo de angostura",
+                    "cantidad": 6,
+                    "medida": "Golpes"
+                }
+                ]
+            },
+            {  
+                "endulzantes": [
+                    {
+                        "nombre": "Almibar",
+                        "cantidad": 1,
+                        "medida": "Oz"
+                    }
+                ]
+            }, 
+            {
+                    "jugos": [
+                        {
+                            "nombre": "Limón",
+                            "cantidad": 0.75,
+                            "medida": "Oz"
+                        }
+                    ]
+                }      
+        ],                 
+            "cristaleria": "Vaso de cobre",
+            "hielo": "Roto",
+            "garnish": ["Gajo de lima"],
+        "historia": [
+            "El Moscow Mule es un cóctel clásico que se creó en Estados Unidos en la década de 1940. Su historia está asociada a tres personas: John G. Martin, Jack Morgan y Sophie Berezinski.",
+            "En aquel entonces, John G. Martin era un distribuidor de vodka de la marca Smirnoff. Sin embargo, el vodka no era muy popular en EE.UU. en ese momento y Martin estaba teniendo problemas para dar salida a su producto. Por otro lado, Jack Morgan era propietario del pub Cock 'n' Bull en Los Ángeles, y tenía un exceso de stock de cerveza de jengibre (ginger beer) que también estaba teniendo problemas para vender.",
+            "Un día, Martin y Morgan se encontraron en el Cock 'n' Bull y comenzaron a discutir sobre sus problemas de venta. Fue entonces cuando Sophie Berezinski, una inmigrante rusa que trabajaba en el bar, sugirió combinar el vodka con la cerveza de jengibre y servirlo en una taza de cobre para hacerlo más atractivo. Los tres decidieron probar la idea y así nació el Moscow Mule.",
+            "El nombre 'Moscow Mule' se atribuye a John Martin, quien quería destacar el origen ruso del vodka. El 'Mule' en el nombre se refiere a la patada que el vodka da cuando se mezcla con la cerveza de jengibre.",
+            "El cóctel Moscow Mule ganó popularidad en Los Ángeles y se convirtió en una sensación en los bares de la ciudad. Su popularidad se extendió por todo el país y se convirtió en una de los cócteles más emblemáticos de la década de 1940.",
+            "Una parte importante del éxito del Moscow Mule se atribuye a su presentación en taza de cobre. Martin y Morgan comenzaron a comercializar el cóctel junto con tazas de cobre grabadas con el logo de Smirnoff y el logo del Cock 'n' Bull. Las tazas de cobre se volvieron muy populares y se convirtieron en un símbolo distintivo del Moscow Mule.",
+            "A medida que pasaron los años, la popularidad del Moscow Mule disminuyó, pero experimentó un resurgimiento en la década de 2000. El cóctel se convirtió en una opción de moda en bares y restaurantes, y las tazas de cobre también volvieron a ser un elemento de moda.",
+            "En ese momento, las tazas de cobre no eran particularmente populares o comunes en los bares, pero pensaron que el uso de este material único agregaría un toque distintivo y atractivo al cóctel. Además, el cobre es un excelente conductor de temperatura, lo que ayudaba a mantener la bebida fría durante más tiempo."
+            ],
+        "receta": [
+                "En un vaso de cobre agregar mucho hielo picado.",
+                "Agregar 2 oz de Vodka",
+                "3/4 oz de jugo de lima",
+                "Complete con ginger beer.",
+                "Terminar decorando con un gajo de lima." 
+            ]
+        }
     
 
 ]
