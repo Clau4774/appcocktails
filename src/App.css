@@ -21,7 +21,7 @@ img {
 }
 
 .grid-card {
-    margin: auto auto;
+    margin: 2rem auto 2rem;
     width: 80%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -40,8 +40,9 @@ img {
 }
 
 .card h3 {
-    text-overflow: ellipsis;
     white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 
@@ -101,11 +102,12 @@ select {
     width: 200px;
 }
 
-@media (max-width: 665px) {
+@media (max-width: 828px) {
     .grid-card {
         width: 100%;
         padding: 0;
         box-shadow:none;
+        gap: 5px;
     }
 
     .grid-card h3 {
@@ -125,4 +127,24 @@ select {
         margin-left: 0;
         text-align: center;
     }
+
+    .card-shadow {
+        box-shadow: 2px 2px 5px #333;
+    } 
+}
+
+@media (max-width: 600px) {
+    .grid-card {
+        grid-template-columns: repeat(2, 1fr);
+        width: 80%;
+        gap: 10px;
+        border: 1px solid #ccc;
+        padding: 15px 0;
+    }
+
+    .card {
+        margin: auto;
+        width: 70%;
+    }
+    
 }
