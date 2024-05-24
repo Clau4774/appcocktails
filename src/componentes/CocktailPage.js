@@ -1,6 +1,6 @@
 
 
-const CocktailPage = () => {
+const CocktailPage = (cocktailInfo) => {
   return (
     <div>
       Algo
