@@ -10,7 +10,6 @@ const Searcher = () => {
 
   const inputData = (inputValue) => {
     setBusqueda(inputValue);
-    console.log('busqueda:', busqueda);    
   }
 
   const searchResult = () => {

@@ -5,8 +5,8 @@
         "metodoElaboracion" : "Refrescado",
         "foto": "https://ik.imagekit.io/bhug69xts/tr:h-1200,w-1200/old-fashioned.png",
         
-        "ingredientes": [
-            {
+        "ingredientes": {
+            
                 "alcoholes": [
                 {
                     "nombre": "Bourbon",
@@ -18,18 +18,16 @@
                     "cantidad": 8,
                     "medida": "Golpes"
                 }
-                ]
-            },
-            {
+                ],
+            
                 "endulzantes": [
                     {
                         "nombre": "Azúcar",
                         "cantidad": 2,
-                        "medida": "bsp"
+                        "medida": "Bsp"
                     }
-                ]
-            },
-            {
+                ],
+            
                 "tonificante": [
                     {
                         "nombre": "Soda",
@@ -37,8 +35,7 @@
                         "medida": "splash"
                     }
                 ]
-            }
-        ],                 
+            },                 
             "cristaleria": "Vaso old fashioned",
             "hielo": "Entero",
             "garnish": ["rodaja de naranja", "cereza marraschino"],
@@ -65,44 +62,41 @@
         "metodoElaboracion" : "Construido",
         "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenFKnuS_M1YF9RQVr3IhA0jcBc_IdKeqhB0XUJ6OgIQ&s",
         
-        "ingredientes": [
-            {
+        "ingredientes": {
+            
                 "alcoholes": [
                 {
                     "nombre": "Ron blanco",
                     "cantidad": 2,
                     "medida": "Oz"
                 }
-                ]
-            },
-            {
+                ],
+            
+            
                 "endulzantes": [
                     {
                         "nombre": "Almibar",
                         "cantidad": 1,
                         "medida": "oz"
                     }
-                ]
-            },
-            {
+                ],
+            
                 "jugos": [
                     {
                         "nombre": "Limón",
                         "cantidad": 0.75,
                         "medida": "Oz"
                     }
-                ]
-            },
-            {
+                ],
+            
                 "botanicos": [
                     {
                         "nombre": "Menta",
                         "cantidad": 10,
                         "medida": "hojas"
                     }
-                ]
-            },
-            {
+                ],
+            
                 "tonificante": [
                     {
                         "nombre": "Soda",
@@ -110,8 +104,7 @@
                         "medida": "Splash"
                     }
                 ]
-            }
-        ],                 
+            },                 
             "cristaleria": "Vaso trago largo",
             "hielo": "Roto",
             "garnish": ["Penacho de menta"],
@@ -135,8 +128,8 @@
         "metodoElaboracion" : "Refrescado",
         "foto": "https://www.liquor.com/thmb/9Bc0hmzzBUcyrC1xgor60Uq7W8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hanky-panky-1200x628-fb-9f0f0c2a4b0c4f4784d5114c4f480aff.jpg",
         
-        "ingredientes": [
-            {
+        "ingredientes": {
+            
                 "alcoholes": [
                 {
                     "nombre": "Gin",
@@ -153,18 +146,16 @@
                     "cantidad": 0.25,
                     "medida": "Oz"
                 }
-                ]
-            },
-            {
+                ],
+            
                 "endulzantes": [
                     {
                         "nombre": "Almibar",
                         "cantidad": 1,
                         "medida": "Oz"
                     }
-                ]
-            },
-            {
+                ],
+            
                 "jugos": [
                     {
                         "nombre": "Limón",
@@ -172,8 +163,7 @@
                         "medida": "Oz"
                     }
                 ]
-            }
-        ],                 
+            },                 
             "cristaleria": "Copa cupe",
             "hielo": "No lleva",
             "garnish": ["Piel de naranja"],
@@ -192,14 +182,15 @@
                 "Retiramos el hielo y el agua que pueda llegar a quedarle a nuestra copa y servimos nuestro trago en esta.",
                 "Perfumamos con piel de naranja y haciendo un twist podemos colocarla en un costado de la copa."
             ]
-    },{
+    },
+    {
         "id": 3,
         "titulo" : "Negroni",
         "metodoElaboracion" : "Refrescado",
         "foto": "https://cdn.recetasderechupete.com/wp-content/uploads/2020/07/Negroni-c%C3%B3ctel.jpg",
         
-        "ingredientes": [
-            {
+        "ingredientes": {
+            
                 "alcoholes": [
                 {
                     "nombre": "Gin",
@@ -215,8 +206,7 @@
                     "medida": "Oz"
                 }
                 ]
-            }
-        ],                 
+        },                 
             "cristaleria": "Vaso old fashioned",
             "hielo": "Entero",
             "garnish": ["Media rodaja de naranja"],
@@ -231,14 +221,14 @@
                 "Retiramos el hielo y el agua que pueda llegar a quedarle a nuestra copa y servimos nuestro trago en esta.",
                 "Perfumamos con piel de naranja y haciendo un twist podemos colocarla en un costado de la copa."
             ]
-    },{
+    },
+    {
         "id": 4,
         "titulo" : "Penicillin",
         "metodoElaboracion" : "Batido",
         "foto": "https://www.liquor.com/thmb/FsPcbBZ5fnQy3mWgZ-xDPqxeS0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/penicillin-720x720-primary-8157bd54c63948c4b5a3ad5b3986965a.jpg",
         
-        "ingredientes": [
-            {
+        "ingredientes": {
                 "alcoholes": [
                 {
                     "nombre": "Whisky escoces",
@@ -250,27 +240,24 @@
                     "cantidad": 1,
                     "medida": "Bsp"
                 }
-                ]
-            },
-            {
+                ],
+            
                 "endulzantes": [
                     {
                         "nombre": "Almibar de miel",
                         "cantidad": 1,
                         "medida": "Oz"
                     }
-                ]
-            },
-            {
+                ],
+            
                 "jugos": [
                     {
-                        "nombre": "Limón",
+                        "nombre": "Lima",
                         "cantidad": 1,
                         "medida": "Oz"
                     }
-                ]
-            }
-        ],                 
+                ]            
+        },                 
             "cristaleria": "Vaso old fashioned",
             "hielo": "Entero",
             "garnish": ["Lima deshidratada"],
@@ -288,32 +275,31 @@
                 "Agregamos hielo al vaso y por último colocamos el garnish, en este caso una lima deshidratada. ",
                 "Como un agregado especial podemos agregarle 1 bsp de whisky ahumado, esto hara que realmente marque la diferencia." 
             ]
-    },{
+    },
+    {
         "id": 5,
         "titulo" : "Moscow Mule",
         "metodoElaboracion" : "Directo",
         "foto": "https://www.barschool.net/sites/default/files/styles/image_gallery_xl/public/images/node/article/complete%20moscow-mule-served-in-a-mug.jpg?h=e6a7cdb7&itok=1BCvuWN7",
         
-        "ingredientes": [
-            {
+        "ingredientes": {
+            
                 "alcoholes": [
                 {
                     "nombre": "Vodka",
                     "cantidad": 2,
                     "medida": "Oz"
                 }
-                ]
-            },
-            {
+                ],
+            
                    "jugos": [
                     {
                         "nombre": "Lima",
                         "cantidad": 0.75,
                         "medida": "Oz"
                     }
-                ]
-            },
-            {
+                ],
+            
                 "tonificante": [
                     {
                         "nombre": "Ginger beer",
@@ -321,8 +307,7 @@
                         "medida": "Top"
                     }
                 ]
-            }
-        ],                 
+        },                 
             "cristaleria": "Vaso de cobre",
             "hielo": "Roto",
             "garnish": ["Gajo de lima"],
@@ -343,49 +328,42 @@
                 "Complete con ginger beer.",
                 "Terminar decorando con un gajo de lima." 
             ]
-    },{
+    },
+    {
         "id": 6,
         "titulo" : "Queens Park Swizzle",
         "metodoElaboracion" : "Swizzle",
         "foto": "https://resizer.glanacion.com/resizer/v2/CKYAEV5KJJAM7MH7Z6FCCETD7A.jpg?auth=e7d1450a23b7f22bf009c59b6fca4b9e4f05751855ff24aa3c86a3ab68e41b06&width=768&quality=70&smart=false",
         
-        "ingredientes": [
-            {
+        "ingredientes": {
+            
                 "alcoholes": [
                 {
                     "nombre": "Ron dorado",
                     "cantidad": 2,
                     "medida": "Oz"
-                },
-                {
-                    "nombre": "Amargo de angostura",
-                    "cantidad": 6,
-                    "medida": "Golpes"
                 }
-                ]
-            },
-            {  
+                ],
+            
                 "endulzantes": [
                     {
                         "nombre": "Almibar",
                         "cantidad": 1,
                         "medida": "Oz"
                     }
-                ]
-            }, 
-            {
+                ], 
+            
                     "jugos": [
                         {
                             "nombre": "Limón",
                             "cantidad": 0.75,
                             "medida": "Oz"
                         }
-                    ]
-                }      
-        ],                 
+                    ]     
+        },                 
             "cristaleria": "Vaso de cobre",
             "hielo": "Roto",
-            "garnish": ["Gajo de lima"],
+            "garnish": ["Penacho de menta", "Amargo de angosutra"],
         "historia": [
             "El Moscow Mule es un cóctel clásico que se creó en Estados Unidos en la década de 1940. Su historia está asociada a tres personas: John G. Martin, Jack Morgan y Sophie Berezinski.",
             "En aquel entonces, John G. Martin era un distribuidor de vodka de la marca Smirnoff. Sin embargo, el vodka no era muy popular en EE.UU. en ese momento y Martin estaba teniendo problemas para dar salida a su producto. Por otro lado, Jack Morgan era propietario del pub Cock 'n' Bull en Los Ángeles, y tenía un exceso de stock de cerveza de jengibre (ginger beer) que también estaba teniendo problemas para vender.",
@@ -403,7 +381,119 @@
                 "Complete con ginger beer.",
                 "Terminar decorando con un gajo de lima." 
             ]
-        }
-    
+    },
+    {
+        "id": 7,
+        "titulo" : "Pisco sour",
+        "metodoElaboracion" : "Batido",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EQ8KXDFKfeY6nRiELq7d56wM1TIYPmsMzdnzk_uY0g&s",
+        
+        "ingredientes": {
+            
+                "alcoholes": [
+                {
+                    "nombre": "Pisco",
+                    "cantidad": 2,
+                    "medida": "Oz"
+                }
+                ],
+            
+            
+                "endulzantes": [
+                    {
+                        "nombre": "Almibar",
+                        "cantidad": 1,
+                        "medida": "oz"
+                    }
+                ],
+            
+                "jugos": [
+                    {
+                        "nombre": "Limón",
+                        "cantidad": 1,
+                        "medida": "Oz"
+                    },
+                    {
+                        "nombre": "Clara de huevo",
+                        "Cantidad": 1,
+                        "medida": "Unidad"
+                    }
+                ]
+            },                 
+            "cristaleria": "Copa cupe",
+            "hielo": "No lleva",
+            "garnish": ["Gotas de amargo de angostura"],
+        "historia": [
+            "El pisco sour fue preparado por primera vez en 1920, en el “Morris bar” del histórico Jirón de la Unión de Lima.",
 
+            "El nombre de la bebida nace cuando se decide juntar las palabras pisco y sour, esta última hace referencia a los cocteles que son acompañados por limón. Su preparación data del año 1920, ofreciéndose al público por primera vez en el “Morris bar” del histórico Jirón de la Unión de Lima, según hipótesis de los historiadores José Antonio Schiaffino y Guillermo Toro-Lira.",
+
+            "A pesar que el “Morris bar” fue cerrado en 1929, este hecho no impidió que su simbólico cóctel se siguiera preparando y potenciando hasta trascender fronteras. Un ex bartender del “Morris bar”, Mario Bruiget, fue el que llevó el Pisco sour al Hotel Maury donde se mejoró la receta añadiendo clara de huevos y amargo de angostura, convirtiéndola hasta el día de hoy en Patrimonio Cultural de la Nación.",
+
+            "Tras ser reconocido mundialmente por su sabor, el Gobierno del Perú declaró fundar, en el año 2004, cada primer sábado de febrero de celebre el Día del Pisco Sour. Con esta resolución, miles de personas organizan eventos en todo el país durante esa fecha para rendirle homenaje a la tradicional bebida peruana con emoción y orgullo."
+            ],
+        "receta": [
+                "Primero debemos poner a enfriar nuestra copa cupe donde serviremos nuestro cocktail. Podemos hacerlo colocando hielo roto y agua para agilizar el proceso.",
+
+                "En una cocktelera sin hielo agregamos los ingredientes en sus medidas correspondientes",
+
+                "Procedemos a cerrar la cocktelera y hacemos un 'Dry Shake' o también llamado 'Batido en seco' en español.",
+
+                "Batimos energicamente por unos 10 segundos.",
+
+                "Abrimos nuestra cocktelera y agregamos hielo, cerramos y procedemos a batir de nuevo entre unos 10 a 15 segundos.",
+
+                "Retiramos de nuestra copa el agua y el hielo y vertiremos nuestro cocktail haciendo un doble colado para evitar que nos queden astillas de hielo, lo cual podría modificar la experiencia al beberlo.",
+
+                "Por último procedemos a decorarlo con 3 gotas de angostura y un perfume de piel de limón para un toque más agradable."
+            ]
+    },
+    {
+            "id": 8,
+            "titulo" : "Boulevardier",
+            "metodoElaboracion" : "Refrescado",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sxG1MtTr_8sVlbKD6ZLGmwZbeE9oDG2U6mKxnsQZag&s",
+            
+            "ingredientes": {
+                
+                    "alcoholes": [
+                    {
+                        "nombre": "Bourbon",
+                        "cantidad": 1,
+                        "medida": "Oz"
+                    },{
+                        "nombre": "Vermouth rosso",
+                        "cantidad": 1,
+                        "medida": "Oz"
+                    },{
+                        "nombre": "Campari",
+                        "cantidad": 1,
+                        "medida": "Oz"
+                    }
+                    ]
+            },                 
+                "cristaleria": "Vaso old fashioned",
+                "hielo": "Entero",
+                "garnish": ["Media rodaja de naranja"],
+            "historia": [
+                "El Boulevardier es un cóctel de la era de la prohibición, creado para satisfacer los gustos de los Americanos en París, fue concebido en los años 20 por Harry Mc Elhone para Erskine Gwynne, quien editaba una revista mensual llamada “the Boulevardier” de ahí el nombre de este cóctel.",
+
+                "El Boulevardier es quizá la mejor variante de un clásico de la coctería, el Negroni; un aperitivo hecho con Gin, Campari y Vermouth, que es a la vez agudo y delicado, sencillo y exuberante, amargo y con un ligero dulzor… un clásico en toda regla.",
+
+                "Sin embargo, ahora no hablamos del Negroni, sino de su pariente más otoñal, el Boulevardier, que utiliza la misma fórmula del Negroni, con la única variación de sustituir el Gin por Whiskey.",
+
+                "Esto podría parecer un cambio menor, pero no lo es, el sabor del Campari y el Vermouth persisten en su particular equilibrio entre lo dulce y lo amargo, pero el Whiskey cambia el resto de la historia. Si el Negroni es elegante y nítido, el Boulevardier es complejo e intrigante. Un pequeño cambio en la preparación que tiene un efecto sorprendente"
+                ],
+            "receta": [
+                    "En un vaso estilo 'old fashioned' colocamos hielo para ir enfriándolo y también en nuestro vaso de composición.",
+
+                    "Enfriamos nuestro vaso de composición y luego de esto procedemos a quitar el agua sobrante.",
+
+                    "Incorporamos los alcoholes y procedemos a refrescar nuestra bebida por unos 30 a 45 segundo para logra una dilusión ideal y una temperatura óptima.",
+
+                    "Retiramos el agua que se haya diluido en el vaso y procedemos a servir nuestro cocktail.",
+                    
+                    "Para terminar colocaremos una media rodaja de naranja y perfumamos con piel de esta para hacer mas atractiva la experiencia."
+                ]
+        }
 ]

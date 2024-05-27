@@ -1,4 +1,4 @@
-//import data from '../../data/cocktails.json'
+import { useNavigate } from "react-router-dom";
 
 
 
@@ -6,7 +6,16 @@ const CurrentSearch = ({value}) => {
 
   const {resultadosBusqueda, busqueda} = value;
 
-  console.log(busqueda)
+  const navigate = useNavigate();
+
+  const navigateTo = (e) => {
+    const element = e.target;
+    element.value  === undefined
+    ? navigate(`../cocktail/${element.parentNode.value}`)
+    : navigate(`../cocktail/${element.value}`)
+    
+    
+  }
  
   return (
     <div className="current-searcher-container">
@@ -17,8 +26,8 @@ const CurrentSearch = ({value}) => {
           <span>No encontramos el cocktail: "{busqueda}"</span>
         </li>
           :resultadosBusqueda.map(elem => 
-            <li key={elem.id}>
-              <img src={elem.foto} alt={elem.titulo}/>
+            <li onClick={navigateTo} value={elem.id} key={elem.id}>
+              <img src={elem.foto} alt={'Foto de un '+elem.titulo}/>
               <span>{elem.titulo}</span>
             </li>
           )
