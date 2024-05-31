@@ -12,10 +12,10 @@ export default function Card ({value}) {
   }
 
   return (
-    <article  className='card card-shadow'> 
+    <article  className='card card-shadow rounded'> 
       <h3>{titulo}</h3>
-      <img src={foto} alt={`Foto de un ${titulo}`}/>
-      <button onClick={navigateTo} value={id}>Más info</button>
+      <img className="rounded" src={foto} alt={`Foto de un ${titulo}`}/>
+      <button className="rounded" onClick={navigateTo} value={id}>Más info</button>
     </article>
   )
 }

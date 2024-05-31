@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 
 const CurrentSearch = ({value}) => {
 
-  const {resultadosBusqueda, busqueda} = value;
+  const {resultadosBusqueda, setResultadosBusqueda, busqueda, setBusqueda} = value;
 
   const navigate = useNavigate();
 
@@ -14,7 +14,8 @@ const CurrentSearch = ({value}) => {
     ? navigate(`../cocktail/${element.parentNode.value}`)
     : navigate(`../cocktail/${element.value}`)
     
-    
+    setBusqueda('');
+    setResultadosBusqueda([])
   }
  
   return (
@@ -26,7 +27,7 @@ const CurrentSearch = ({value}) => {
           <span>No encontramos el cocktail: "{busqueda}"</span>
         </li>
           :resultadosBusqueda.map(elem => 
-            <li onClick={navigateTo} value={elem.id} key={elem.id}>
+            <li className="rounded" onClick={navigateTo} value={elem.id} key={elem.id}>
               <img src={elem.foto} alt={'Foto de un '+elem.titulo}/>
               <span>{elem.titulo}</span>
             </li>

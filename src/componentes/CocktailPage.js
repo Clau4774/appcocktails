@@ -13,7 +13,7 @@ const CocktailPage = () => {
   let forKey2 = 0;
   let forKey3 = 0;
   return (
-    <div className="cocktail-page-container box-shadow">
+    <div className="cocktail-page-container">
       <header>
         <div className="navigation-search-div">
           <ReturnHome />
@@ -21,7 +21,7 @@ const CocktailPage = () => {
         </div>
         <h1 className="title">{cocktail.titulo}</h1>
       </header>
-      <article>
+      <article className="cocktail-article-container box-shadow rounded">
         <section className="presentation">
           <img src={cocktail.foto} alt={`Foto de un ${cocktail.titulo}`}/>
           <div>

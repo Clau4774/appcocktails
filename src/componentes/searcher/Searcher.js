@@ -18,19 +18,21 @@ const Searcher = () => {
       ?data.filter(elem => elem.titulo.toLowerCase().includes(busqueda.toLowerCase()))
       : []
     )
+
+    if (busqueda === '') setResultadosBusqueda([])
   }
   
   return (
 
     <div className="searcher-container" >
 
-      <input value={busqueda} onChange={(e) =>{
+      <input className="rounded" value={busqueda} onChange={(e) =>{
         inputData(e.target.value)
         searchResult();
         }} type="text" placeholder="Busca el cocktail que quieras..."/>
 
-      <button onClick={() => console.log('click')}>Buscar</button>
-      <CurrentSearch  value={{resultadosBusqueda: resultadosBusqueda, busqueda: busqueda}}/>
+      <button className="rounded" onClick={() => console.log('click')}>Buscar</button>
+      <CurrentSearch  value={{resultadosBusqueda: resultadosBusqueda, setResultadosBusqueda: setResultadosBusqueda, busqueda: busqueda, setBusqueda: setBusqueda}}/>
     </div>
   )
 }

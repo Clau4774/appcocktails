@@ -146,22 +146,6 @@
                     "cantidad": 0.25,
                     "medida": "Oz"
                 }
-                ],
-            
-                "endulzantes": [
-                    {
-                        "nombre": "Almibar",
-                        "cantidad": 1,
-                        "medida": "Oz"
-                    }
-                ],
-            
-                "jugos": [
-                    {
-                        "nombre": "Limón",
-                        "cantidad": 0.75,
-                        "medida": "Oz"
-                    }
                 ]
             },                 
             "cristaleria": "Copa cupe",
@@ -214,12 +198,13 @@
             "Cuenta la historia que, más tarde, en 1919, un conde italiano llamado Camillo Negroni, conocido como un joven astuto y cliente habitual del Bar Casoni, más tarde llamado Caffe Giacosa, en la calle Tournaboni de Florencia, un día pidió que su Americano estuviera un poco más cargado.  El barman, Fosco Scarselli respondió cambiando la soda por ginebra y la combinación se convirtió en el cóctel habitual del conde. Otros clientes del bar pronto comenzaron a pedir una de las bebidas del Conde Negroni y después de un tiempo, la bebida simplemente se conoció como Negroni."
             ],
         "receta": [
-                "Procedemos a enfriar una copa cupé, la cual reservaremos para luego vertir nuestro cocktail.",
-                "En un vaso de compocición agregar hielo y refrescar este para enfriar. Retirar el exceso de agua de este y procederemos a armar nuestro cocktail.",
-                "Colocamos 1,5 oz del gin de su preferencia, seguido de esto 1.5 oz también de vermouth rosso y por último 0.25 oz de fernet.",
-                "Seguido a esto procederemos a refrescar nuestro cocktail por aproximadamente unos 30 a 45 segundos o hasta notar que nuestro vaso de composición se encuentra bien frío, también podemos probar un poco de nuestro cocktail con la ayuda de nuestro barspoon y ver que tenga el frío y sabor deseado.",
-                "Retiramos el hielo y el agua que pueda llegar a quedarle a nuestra copa y servimos nuestro trago en esta.",
-                "Perfumamos con piel de naranja y haciendo un twist podemos colocarla en un costado de la copa."
+                "Empezamos colcando hielo en un vaso 'old fashioned', también hacemos lo mismo en nuestro vaso de composición.",
+
+                "Luego de esto refrescamos este último hasta notar que está bien frío, logrado esto procedemos con la ayuda de un colador a retirar el exceso de agua.",
+
+                "Colocamos las medidas de alcohol dentro del vaso mesclador para luego refrescar nuestra bebida por aproximadamente unos 30 a 45 segundo, es importante que el cocktail este bien frío para disfrutarlo bien",
+
+                "Quitamos el exceso de agua del vaso, vertimos nuestro cocktail con la ayuda de un colador en nuestro vaso y procedemos a decorarlo con media rodaja de naranja y perfume de piel de esta."
             ]
     },
     {
@@ -494,6 +479,54 @@
                     "Retiramos el agua que se haya diluido en el vaso y procedemos a servir nuestro cocktail.",
                     
                     "Para terminar colocaremos una media rodaja de naranja y perfumamos con piel de esta para hacer mas atractiva la experiencia."
+                ]
+        },
+        {
+            "id": 9,
+            "titulo" : "Margarita",
+            "metodoElaboracion" : "Batido",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6J1jMFIO-zKXV6JZzZxifs_8L5Ry4kjChA&s",
+            
+            "ingredientes": {
+                    "alcoholes": [
+                    {
+                        "nombre": "Tequila blanco",
+                        "cantidad": 2,
+                        "medida": "Oz"
+                    },
+                    {
+                        "nombre": "Triple sec",
+                        "cantidad": 0.5,
+                        "medida": "Oz"
+                    }
+                    ],
+                
+                    "jugos": [
+                        {
+                            "nombre": "Lima",
+                            "cantidad": 1,
+                            "medida": "Oz"
+                        }
+                    ]            
+            },                 
+                "cristaleria": "Copa Margarita",
+                "hielo": "Sin hielo",
+                "garnish": ["Rodaja de lima"],
+            "historia": [
+                "La historia de la Margarita más extendida y famosa es la que dice que la bebida proviene de Jalisco, México, y que su creador es Carlos “Danny” Herrera. La bebida nació fruto de un experimento hecho para la actriz Marjorie King, la cual era alérgica a un gran número de ingredientes menos al tequila. Así pues, Carlos le propuso beber un cóctel con tequila, Cointreau y limón fresco. ",
+    
+                "Por otro lado, otra de las versiones sobre dónde se inventó la Margarita nos dice que esta es originaria de la Cantina Hussong en la ciudad de Ensenada, también en México, y que fue creada en 1941.",
+
+                "Carlos Orozco estaba experimentando una nueva creación cuando de repente entró en la cantina Margarita Henkel, la hija del embajador alemán en México. En honor a su nombre, denominó a esta bebida con el ya más que famoso nombre de Margarita."
+                ],
+            "receta": [
+                    "Como primer paso creamos un labiado con jugo de lima y sal, luego enfriamos la copa.",
+                    
+                    "Luego en una coctelera agregamos los ingredientes y procedemos a batir con hielo entero",
+
+                    "Seguido servimos nuestro cocktail doble colandolo en nuestra copa margarita.",
+
+                    "Para la decoración pondremos en el borde de la copa una rodaja de lima a la cual le haremos un corte desde unos milimetros del centro hacia afuera para poder posicionarla como se mencionó antes."
                 ]
         }
 ]
